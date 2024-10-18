@@ -1,0 +1,127 @@
+.text-red{
+    color:darkred;
+}
+
+.text-blue{
+    color: rgb( 0, 53, 225);
+}
+
+.text-blue-50{
+    color:rgb( 0, 53, 225);
+    opacity: .5; /*transparency @50%*/
+ }
+
+ .text-orange{
+    color: rgba(225, 128, 0, 0.9);
+  /*transparency@ 90% */
+ }
+
+ .text-green{
+    color: #007a14;
+ }
+
+ .font-serif{
+    font-family: serif;
+ }
+ 
+ .font-sans-serif{
+    font-family: sans-serif;
+ }
+
+ .font-monospace{
+    font-family: monospace;
+ }
+
+ .font-size{
+    font: size 30px;
+ }
+
+ .font-5em{
+    font-size:5em;
+    /* final size = default font size * number_factor*/
+ }
+
+ .font-150-percent{
+    font-size: 150;
+    /* final size = default size * percentage*/
+ }
+ 
+ .fw-bold{
+    font-weight: bold;
+ }
+
+ .fw-normal{
+    font-weight: normal;
+ }
+
+.fw-Light{
+    font-weight: lighter;
+}
+
+.normal-style {
+   font-style: normal;
+}
+.italic-style {
+   font-style: italic;
+}
+.oblique-style {
+   font-style: oblique;
+}
+
+.txt-uppercase {
+   text-transform: uppercase;
+}
+.txt-lowercase {
+   text-transform: lowercase;
+}
+.txt-capitalize {
+   text-transform: capitalize;
+}
+
+.txt-overline {
+    text-decoration: overline;
+}
+.txt-underline {
+    text-decoration: underline;
+}
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.txt-left {
+   text-align: left;
+}
+.txt-center {
+   text-align: center;
+}
+.txt-right {
+   text-align: right;
+}
+
+.txt-shadow {
+   font-size: 40px;
+   text-shadow: 2px 2px 3px red;
+}
+
+p{
+width: 500px;
+}
+
+.text-indent-perc{
+   text-indent:50%;
+}
+
+.text-indent-px{
+   text-indent: 50px;
+}
+.text-indent-em{
+   text-indent:3em
+}
+
+.letter-spacing{
+   letter-spacing:2px;
+}
+
+.word-spacing{
+   word-spacing: 50px;
+   }

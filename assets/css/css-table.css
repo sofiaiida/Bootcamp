@@ -1,0 +1,7 @@
+table,th,td{
+    border: 1px solid crimson;
+    empty-cells: hide;
+    border-collapse: separate;
+    border-spacing: 15px 30px;
+
+}

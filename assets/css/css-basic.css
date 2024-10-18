@@ -1,0 +1,44 @@
+/*UNIVERSAL SELECTORE it will be applied if no sepecific CSS is created for that element/tag
+*/
+
+*{
+    color: aquamarine;
+}
+
+h3{
+    color: blueviolet;
+}
+
+.brown-fox{
+    color: brown;
+}
+
+#new-p{
+    color: darkolivegreen;
+}
+
+
+span{
+    color: red
+}
+
+span{
+    color: navy;
+}
+
+
+span.text-orange{
+    color: orangered;}
+
+/*<parent> <child/target>*/
+
+ul li {
+    font-weight: bold;
+    color: pink;
+}
+/*<parent's class name> <Child/target>*/
+
+.style-01 li{
+    font-weight: lighter;
+    color: green;
+}

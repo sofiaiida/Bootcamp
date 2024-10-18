@@ -1,0 +1,17 @@
+table{
+
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    border-spacing: 15px 30px;
+}
+
+th{
+    color: white;
+    background-color: #fc8a8a;
+}
+
+tr:nth-child(odd){
+    background-color: #ffd4d3;
+}

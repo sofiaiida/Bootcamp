@@ -1,0 +1,43 @@
+.none{
+    list-style-type: none;
+}
+
+.disc{
+    list-style-type: disc;
+}
+.circle{
+    list-style-type: circle;
+}
+
+.square{
+    list-style-type: square;
+}
+
+/*ordered lisit*/
+.decimal{
+    list-style-type: decimal;
+}
+.lower-alpha{
+    list-style-type: lower-alpha;
+}
+.upper-alpha{
+    list-style-type: upper-alpha;
+}
+.lower-roman{
+    list-style-type: lower-roman;
+}
+.upper-roman{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-position:outside;
+}
+ol{
+list-style-position: inside;
+}
+
+/*list style shorthand*/
+
+.list-style-shorthand{
+    list-style: square inside;
+}
